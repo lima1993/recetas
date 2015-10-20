@@ -2,7 +2,6 @@ source 'https://rubygems.org'
 gem 'pg'
 gem 'rails_12factor', group: :production
 gem 'rails', '4.2.1'
-gem 'sqlite3'
 gem 'sass-rails', '~> 5.0'
 gem 'simple_form', '~> 3.1.0'
 gem 'bootstrap-sass', '~> 3.3.4.1'
